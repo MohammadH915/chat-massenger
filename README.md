@@ -17,11 +17,11 @@ This project is a chat messenger application that utilizes Redis Pub/Sub for mes
 ### Setting Up
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MohammadH915/chat-massenger.git
 ```
 2. Install dependencies:
 ```bash
-cd <project-directory>
+cd chat-massenger
 go mod tidy
 ```
 
